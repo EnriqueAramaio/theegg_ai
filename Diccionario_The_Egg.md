@@ -9,13 +9,13 @@ Programacion: Proceso por el cual se idea y organiza acciones para la realizacio
 
 Inteligencia Artificial: Objetivo por el cual se busca la creacion de una maquina que simule las capacidades cognitivas del ser humano
 
-Transisto _12: Componente integrado  en los circuitos electronicos, amplifican las señales  y  cunado reciben señal dejan pasar la corriente, Si hay señal "1" y so no la hay "0", iniciando se asi con ello en la electronica el sistema binario
+Transistor: Componente integrado  en los circuitos electronicos, amplifican las señales  y  cunado reciben señal dejan pasar la corriente, Si hay señal "1" y so no la hay "0", iniciando se asi con ello en la electronica el sistema binario
 
 Ley de Moore: indica la evolucion de los microprocesadores en funcion al aumento de transistores que lo componen siendo habitual que se duplique cada dos años 
 
 Algebra de Boole(Booleana): algebra de operaciones logicas para su aplicacion en la electronica y puertas logicas
 
-Puertas logicas:Circuitos electronicos creados con transistores para la realizacion de operaciones logicas
+Puertas logicas: Circuitos electronicos creados con transistores para la realizacion de operaciones logicas
   AND
   OR
   NOT
@@ -36,10 +36,24 @@ Sistema Operativo: Programa o Software de una computadora o sistema informatico 
 
 Software: Conjunto de componentes logicos necesarios para la realizacion de tareas especificas. Es el programa, la aplicacion la interface todo aquello que se construlle con lenguajes de programacion, no es lo fisico como el Hardware.
 
-Hardware: La parte fisica dela compiutacion 
+Hardware: La parte fisica de la computacion o sistema informatico compuesta por componentes electricos, electronicos y mecanicos. Ej. microprocesador, memoria, perifericos  etc.
 
+Raspberry pi: mini ordenador de bajo coste 
 
-Lenguaje de programacion:lista de instrucciones para la creacion de programas
+Arduino: Compañoa que desarrolla hardware y software libre para construir dispositivos digitales
+
+Compilador: es un traductor del lenguaje de programacion (Lenguaje de alto nivel) a codigo maquina ( lenguaje de las maquinas)
+
+Interprete:
+
+Lenguaje de programacion: lista de instrucciones para la creacion de programas
+
+Editor de codigo:
+
+Lenguaje de alto nivel:
+
+Lenguaje de maquina:
+
 
 
 
