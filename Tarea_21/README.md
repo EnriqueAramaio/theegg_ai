@@ -11,5 +11,5 @@ Como "x" debe de ser inferior a "y" para que se cumpla, inicio la ecuación con 
 Y si no me equivoco mientras "x/y" sea distinto de "a" aumentaremos el valor de la incógnita y variable "y" en una unidad por iteración. En el momento que se cumpla esa condición tendremos los valores de "x" e "y" que nos indican la fracción irreducible.
 Cuando el resto de compañerxs lo reviséis ya me contareis, igual se me ha ido un poco la pinza, pero me ha costado toda la mañana dar con ello XD
 
-
+0.1478
 
