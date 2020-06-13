@@ -1,7 +1,7 @@
 
 Diccionario The Egg
 
-Turing: Nombre del primer nivel de la escuela para adquirir nociones informaticas para afrontar los posterioress objetivo en IA, este nombre viene de  MAtematico Alan Turing considerados el uno de lso padres de la cienciad de la computacion.
+Turing: Nombre del primer nivel de la escuela para adquirir nociones informaticas para afrontar los posterioress objetivo en IA, este nombre viene de  Matematico Alan Turing considerados el uno de los padres de la cienciad de la computacion.
 
 Computadora: Aparato electornico capaz de realizar muchos calculos en un tiempo muy reducido. Estos calculos son posibles gracias a la implementacion de programas en la computadora.
 
