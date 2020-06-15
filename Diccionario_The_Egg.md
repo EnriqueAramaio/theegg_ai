@@ -1,14 +1,8 @@
-
 Diccionario The Egg
-
 Turing: Nombre del primer nivel de la escuela para adquirir nociones informáticas para afrontar los posteriores objetivos en IA, este nombre viene de  Matemático Alan Turing considerado el uno de los padres de la ciencia de la computación.
-
 Computadora: Aparato electrónico capaz de realizar muchos cálculos en un tiempo muy reducido. Estos cálculos son posibles gracias a la implementación de programas en la computadora.
-
 Programación: Proceso por el cual se idea y organiza acciones para la realización de un proyecto
-
 Inteligencia Artificial: Objetivo por el cual se busca la creación de una máquina que simule las capacidades cognitivas del ser humano
-
 Transistor: Componente integrado  en los circuitos electrónicos, amplifican las señales  y  cunado reciben señal dejan pasar la corriente, Si hay señal "1" y so no la hay "0", iniciando se así con ello en la electrónica el sistema binario
 
 Ley de Moore: indica la evolución de los microprocesadores en función al aumento de transistores que lo componen siendo habitual que se duplique cada dos años 
@@ -71,6 +65,18 @@ Lenguaje interpretado: es un lenguaje de programación para el que la mayoría d
 Repositorio de control de versiones: Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software , en este caso con la finalidad de que se pueda realizar un gestión de los cambios de se realizan sobre el contenido del repositorio.
 
 Github: ES una plataforma de desarrollo colaborativo para alojar proyectos y poder utilizar su sistema de control de versiones Git. Generalmente se almacena la información de manera pública.
+
+Javascript: Lenguaje de programación interpretado y orientado a objetos, se utiliza del lado del cliente “frontend” implementado como parte de un navegador
+
+Html:  siglas en inglés de HyperText Markup Language (‘lenguaje de marcas de hipertexto’), utilizado para la elaboración de paginas web. El lenguaje HTML basa su filosofía de desarrollo en la diferenciación. Para añadir un elemento externo a la página (imagen, vídeo, script, entre otros.), este no se incrusta directamente en el código de la página, sino que se hace una referencia a la ubicación de dicho elemento mediante texto. De este modo, la página web contiene solamente texto mientras que recae en el navegador web (interpretador del código) la tarea de unir todos los elementos y visualizar la página final. Al ser un estándar, HTML busca ser un lenguaje que permita que cualquier página web escrita en una determinada versión, pueda ser interpretada de la misma forma (estándar) por cualquier navegador web actualizado. 
+
+CSS: siglas en inglés de Cascading Style Sheets, en español «Hojas de estilo en cascada»,es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado, Es muy usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML o XHTML. CSS está diseñado principalmente para marcar la separación del contenido del documento y la forma de presentación de este, características tales como las capas o layouts, los colores y las fuentes.4 Esta separación busca mejorar la accesibilidad del documento, proveer más flexibilidad y control en la especificación de características presentacionales, permitir que varios documentos HTML compartan un mismo estilo usando una sola hoja de estilos separada en un archivo .css, y reducir la complejidad y la repetición de código en la estructura del documento.
+
+SQL:  siglas en inglés Structured Query Language; en español lenguaje de consulta estructurada, lenguaje de dominio específico utilizado en programación, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales, Una de sus principales características es el manejo del álgebra y el cálculo relacional para efectuar consultas con el fin de recuperar, de forma sencilla, información de bases de datos, así como realizar cambios en ellas. SQL consiste en un lenguaje de definición de datos, un lenguaje de manipulación de datos y un lenguaje de control de datos.
+Algoritmo: conjunto de instrucciones o reglas definidas y no-ambiguas, ordenadas y finitas que permite, típicamente, solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades
+
+Diagrama de flujo: es la representación gráfica de un algoritmo o proceso Estos diagramas utilizan símbolos con significados definidos que representan los pasos del algoritmo, y representan el flujo de ejecución mediante flechas que conectan los puntos de inicio y de fin del proceso.
+
 
 
 
